@@ -58,6 +58,6 @@ To start integrating in production you just need to change the *mode* in *reques
 
 ## Support
 
-For further queries reach us at [techsupport@gocashfree.com](techsupport@gocashfree.com). 
+For further queries reach us at [techsupport@cashfree.com](techsupport@cashfree.com). 
 
 *****************************************************************************************
